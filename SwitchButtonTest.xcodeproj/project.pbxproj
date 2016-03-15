@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C63B1DF1C982EA800D86BF8 /* wdwdwdwdwd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C63B1DE1C982EA800D86BF8 /* wdwdwdwdwd.swift */; };
 		8CB1606A1C9822B7001E40E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB160691C9822B7001E40E2 /* AppDelegate.swift */; };
 		8CB1606C1C9822B7001E40E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB1606B1C9822B7001E40E2 /* ViewController.swift */; };
 		8CB1606F1C9822B7001E40E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CB1606D1C9822B7001E40E2 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C63B1DE1C982EA800D86BF8 /* wdwdwdwdwd.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = wdwdwdwdwd.swift; sourceTree = "<group>"; };
 		8CB160661C9822B7001E40E2 /* SwitchButtonTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwitchButtonTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CB160691C9822B7001E40E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CB1606B1C9822B7001E40E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				8CB160691C9822B7001E40E2 /* AppDelegate.swift */,
 				8CB1606B1C9822B7001E40E2 /* ViewController.swift */,
 				8CB1606D1C9822B7001E40E2 /* Main.storyboard */,
+				8C63B1DE1C982EA800D86BF8 /* wdwdwdwdwd.swift */,
 				8CB160701C9822B7001E40E2 /* Assets.xcassets */,
 				8CB160721C9822B7001E40E2 /* LaunchScreen.storyboard */,
 				8CB160751C9822B7001E40E2 /* Info.plist */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C63B1DF1C982EA800D86BF8 /* wdwdwdwdwd.swift in Sources */,
 				8CB1606C1C9822B7001E40E2 /* ViewController.swift in Sources */,
 				8CB1606A1C9822B7001E40E2 /* AppDelegate.swift in Sources */,
 				8CE4E9B61C982AD700F33533 /* sdsd.swift in Sources */,
