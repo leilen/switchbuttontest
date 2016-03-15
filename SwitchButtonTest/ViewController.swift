@@ -29,6 +29,7 @@ class ViewController: UIViewController {
     @IBAction func valueChanged(sender: AnyObject) {
         print(self.button.selectedSegmentIndex)
         print("dsdsdsds")
+        print("What is branch?")
         switch self.button.selectedSegmentIndex{
         case 0:
             self.firstView.alpha = 1
